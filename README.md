@@ -1,82 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=200&section=header&text=Gopal%20Mahaaseth&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=220&section=header&text=Gopal%20Mahaaseth&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Building+with+HTML%2C+CSS%2C+JS%2C+PHP+%26+MySQL;Exploring+Networking+%26+Kali+Linux;Always+learning%2C+always+building" alt="Typing SVG" />
+<!-- Animated Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+secure+web+apps;Mastering+PHP+%26+Databases;Exploring+Kali+Linux+%26+Networks" alt="Typing SVG" />
 
 </div>
 
-<br/>
+---
 
-<table align="center" border="0">
-<tr>
-<td valign="top" width="50%">
+## 💫 About Me
 
-### 👋 About me
+<p align="left">
+🚀 I am a passionate <b>Full-Stack Web Developer</b> blending robust backend logic with slick front-end experiences. Currently, I'm deep-diving into <b>Cybersecurity & Ethical Hacking</b> to build web applications that aren't just functional, but iron-clad.
+</p>
 
-- 🌐 Full-stack web developer — **HTML, CSS, JavaScript, PHP, MySQL**
-- 🗄️ Comfortable with **MongoDB** for NoSQL work
-- 🔐 Learning **networking fundamentals** and **Kali Linux**
-- 🌱 Currently leveling up my full-stack and security skills
-- 💬 Ask me about front-end builds, PHP backends, or database design
-- 📫 Open to collaborating on web projects
+* 🌐 **Web Dev:** Crafting dynamic applications using HTML, CSS, JS, PHP, and MySQL.
+* 🗄️ **Databases:** Experienced in both relational (MySQL) and NoSQL (MongoDB) ecosystems.
+* 🔐 **Security:** Getting my hands dirty with networking fundamentals and Kali Linux.
+* 🤝 **Collaboration:** Open to open-source contributions and exciting web development projects.
 
-</td>
-<td valign="top" width="50%">
+---
 
-### 📊 GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gopal0120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🧰 Tech stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,kali,git,github&theme=dark" />
+| **Category** | **Tools & Technologies** |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=php,mysql,mongodb&theme=dark" /> |
+| **Cybersec & Tools** | <img src="https://skillicons.dev/icons?i=kali,git,github&theme=dark" /> |
 
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-### 🔥 Streak stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal0120&theme=tokyonight&hide_border=true&background=00000000" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Gopal0120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal0120&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-<br/>
+---
+
+## 📌 Featured Projects
 
 <div align="center">
 
-### 📌 Featured projects
-
-<!--
-Replace this block once you publish repos. Example card:
-
+<!-- Replace 'project-repo' with your actual repository name once you have one! -->
 <a href="https://github.com/Gopal0120/project-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal0120&repo=project-repo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gopal0120&repo=project-repo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
--->
-
-*Pin your repos and they'll appear here — see the setup guide for how.*
 
 </div>
 
-<br/>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-
-### 🤝 Connect with me
 
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -87,8 +74,11 @@ Replace this block once you publish repos. Example card:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gopal0120&style=for-the-badge&color=534AB7" alt="Profile views"/>
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=Gopal0120&style=flat-square&color=1D9E75" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer" width="100%"/>
