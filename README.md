@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=220&section=header&text=Gopal%20Mahaaseth&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=220&section=header&text=Gopal%20Mahaseth%20(Mahato)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
 <!-- Animated Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+secure+web+apps;Mastering+PHP+%26+Databases;Exploring+Kali+Linux+%26+Networks" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=UI/UX+%26+Graphic+Design;Full-Stack+Web+Development;Building+with+HTML%2C+PHP+%26+MySQL;Exploring+Cybersecurity" alt="Typing SVG" />
 
 </div>
 
@@ -15,27 +15,49 @@
 ## 💫 About Me
 
 <p align="left">
-🚀 I am a passionate <b>Full-Stack Web Developer</b> blending robust backend logic with slick front-end experiences. Currently, I'm deep-diving into <b>Cybersecurity & Ethical Hacking</b> to build web applications that aren't just functional, but iron-clad.
+🚀 I am a multi-disciplinary <b>UI/UX Designer</b> and <b>Full-Stack Web Developer</b>. I specialize in bridging the gap between stunning, user-centered visual experiences and secure, robust backend systems. 
 </p>
 
-* 🌐 **Web Dev:** Crafting dynamic applications using HTML, CSS, JS, PHP, and MySQL.
-* 🗄️ **Databases:** Experienced in both relational (MySQL) and NoSQL (MongoDB) ecosystems.
-* 🔐 **Security:** Getting my hands dirty with networking fundamentals and Kali Linux.
-* 🤝 **Collaboration:** Open to open-source contributions and exciting web development projects.
+* 🎨 **UI/UX & Graphics:** Crafting intuitive user flows, wireframes, prototypes, and digital brand identities.
+* 🌐 **Web Dev:** Building dynamic web applications using HTML, CSS, JavaScript, PHP, and MySQL.
+* 🗄️ **Databases:** Experienced with both relational databases (MySQL) and NoSQL ecosystems (MongoDB).
+* 🔐 **Security:** Actively learning networking fundamentals and Kali Linux to build iron-clad applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
+
+### **Graphic & UI/UX Designer** — *ITPARK / Park Ventures Pvt. Ltd.*
+**Timeline:** March 2025 – April 2026 | New Baneshwor, Kathmandu
+* 📐 **UI/UX Design:** Designed intuitive user interfaces and user-centered wireframes/prototypes for web and mobile applications.
+* 🎨 **Branding & Identity:** Crafted cohesive corporate brand assets including logos, identity cards, flyers, and business cards.
+* 📢 **Digital Marketing:** Engineered high-conversion social media posters, web banners, and corporate booklets.
+* 🛠️ **Tools & Standards:** Applied advanced knowledge of color theory, typography, and visual hierarchy using industry-standard design software.
+
+---
+
+## 📜 Professional Strengths & Core Values
+Based on professional endorsements, I pride myself on maintaining a strong work ethic:
+* 💡 **Problem Solver:** Highly adaptable with a calm, solution-oriented mindset when tackling demanding project requirements.
+* 🤝 **Collaborative:** Proven ability to work seamlessly in cross-functional teams, translating business rules into creative solutions.
+* 📈 **Growth Mindset:** Self-motivated, disciplined, punctual, and always eager to accept constructive feedback for continuous self-improvement.
+
+---
+
+## 🛠️ Tech Stack & Design Toolkit
 
 <div align="center">
 
 | **Category** | **Tools & Technologies** |
 | :--- | :--- |
+| **Design & UI/UX** | <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop&theme=dark" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> |
 | **Backend & DB** | <img src="https://skillicons.dev/icons?i=php,mysql,mongodb&theme=dark" /> |
-| **Cybersec & Tools** | <img src="https://skillicons.dev/icons?i=kali,git,github&theme=dark" /> |
+| **Tools & Security** | <img src="https://skillicons.dev/icons?i=kali,git,github&theme=dark" /> |
 
 </div>
+
+*(Note: Feel free to swap `figma` or `xd` if you prefer to feature alternative design tool badges alongside Illustrator!)*
 
 ---
 
